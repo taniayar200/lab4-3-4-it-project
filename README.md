@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# UniDone - IT Project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[![CI/CD Pipeline](https://github.com/taniayar200/lab4-3-4-it-project/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/taniayar200/lab4-3-4-it-project/actions/workflows/ci-cd.yml)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+**Робочий сайт:** [https://lab4-3-4-it-project.vercel.app](https://lab4-3-4-it-project.vercel.app)
