@@ -31,3 +31,11 @@ jobs:
 
       - name: Run unit tests
         run: npm run test:unit
+        
+      - name: Run unit tests
+        run: npm run test:unit
+
+      - name: Use Secret Token
+        env:
+          MY_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
+        run: echo "Секрет успішно підключено (значення приховано)!"
